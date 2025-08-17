@@ -1,0 +1,18 @@
+Title: Evolution of life expectancy
+For most of humanity, life was short, indeed the average life expectancy was under, but it is now 
+what changed in a short period of time.
+
+
+Life expectancy (World, 1770–2023) → long historical series.
+DTP vaccination coverage (Global, 1980s–2024) → short modern series.
+
+
+“Historical estimates of water and sewerage coverage (Gallardo-Albarrán, 2024) show how sanitation spread unevenly across the world — with Northern Europe reaching near universal coverage by 1900, while parts of Asia and Latin America lagged behind until the mid-20th century.”
+
+References
+
+WHO/UNICEF Estimates of National Immunization Coverage (WUENIC), DTP vaccination coverage dataset, 2024.
+
+Riley (2005); Zijdeman et al. (2015); HMD (2024); UN WPP (2024) – with major processing by Our World in Data
+
+Gallardo-Albarrán, D. A. (2024). The global sanitary revolution in historical perspective. European Historical Economics Society (EHES) Working Paper No. 0247.
